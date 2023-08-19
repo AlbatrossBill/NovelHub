@@ -1,4 +1,4 @@
-# http://3.27.137.128/
+# Beta version: http://3.27.137.128/
 # novel_Web_Front_end
 
 ## Project setup
